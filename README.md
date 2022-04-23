@@ -31,5 +31,4 @@ However, with random cropping while training, and testing on center-crops, the c
     title = {Toyota Smarthome: Real-World Activities of Daily Living},
     booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
     month = {October},
-    year = {2019}
-}
+    year = {2019}}
